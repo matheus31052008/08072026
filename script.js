@@ -1,3 +1,5 @@
+botoes[0].onclick = diminuiTamanho;
+botoes[1].onclick = aumentaTamanho;
 function aumentaTamanho() {
     if (tamanhoSenha < 20) {
             // tamanhoSenha = tamanhoSenha + 1;
